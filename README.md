@@ -6,6 +6,6 @@ I am a passionate data enthusiast who made a deliberate decision to upskill in t
 
 
 - 🔭 I’m currently upskilling myself on Tableau
-- 🖥️ I have hands-on eperience in Data Analysis, Visualization and Macine Learning projects
+- 🖥️ I have hands-on eperience in Data Analysis, Data Visualization and Machine Learning projects
 - 🌱 I am now seeking a role as a Data Analyst or Data Scientist where I can apply my skills and contribute to the success of both the organization and my own professional growth.
 - ⚡ My key skills include Python, SQL, Pandas, Data Analysis, Data Visualization, Machine Learning, Deep Learning, Power BI, and Streamlit.
